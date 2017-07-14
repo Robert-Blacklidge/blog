@@ -105,7 +105,6 @@ QtPy==1.2.1
 requests==2.12.4
 rope-py3k==0.9.4.post1
 seaborn==0.7.1
-singledispatch==3.4.0.3
 six==1.10.0
 snowballstemmer==1.2.1
 sockjs-tornado==1.0.3
